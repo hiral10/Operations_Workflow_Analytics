@@ -24,7 +24,7 @@ The Power BI dashboard provides an interactive view of:
 * SLA Breach Rate by Team
 
 <p align="center">
-  <img src="dashboard.png" width="900" alt="NovaFulfill Operations Dashboard">
+  <img src="./Dashboard/dashboard.png" width="900" alt="NovaFulfill Operations Dashboard">
 </p>
 
 ## Business Questions
