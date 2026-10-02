@@ -1,0 +1,13 @@
+PROJECT: Operations & Workflow Performance Dashboard
+
+BUSINESS PROBLEM:
+Management needs visibility into order-processing performance, SLA compliance, delays, errors, and operational bottlenecks.
+
+OBJECTIVE:
+Analyze operational workflow performance and identify areas where management should investigate delays and inefficiencies.
+
+TOOLS:
+Excel
+SQL
+Python
+Power BI
